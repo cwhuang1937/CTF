@@ -1,0 +1,8 @@
+1.
+在fini_array發現有3個offset
+
+2.
+b *0x565562ef
+
+3.
+FLAG{Drake_liking_x32_and_int_0x80}

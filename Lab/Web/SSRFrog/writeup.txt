@@ -1,0 +1,5 @@
+1. convert url (https://splitline.github.io/domain-obfuscator/)
+HTtP:ⓣhᵉ｡ᶜ₀º⓪ℴ0ⅼ-ﬂ㊹⁴Ⓖ．ˢℯＲVℰʳ.㏌ᵗeｒ㎁L
+
+2.
+flag{C0o0o0oL_baby_ssrf_trick}

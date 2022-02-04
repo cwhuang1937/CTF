@@ -1,0 +1,11 @@
+1.
+TLS會將aTh3Pa55wd的值改成Yoasobi，執行起來後會知道flag藏在FS
+
+2.
+設break在00007FF6A12014C7後，接著將rip改成00007FF6A1201503後，跳果檢查
+
+3.
+設break在00007FF6A12013c0後，可得知flag藏在這邊
+
+
+FLAG{WOW_YOU_F0UND_M3!!!!!!!!!!!!?!}

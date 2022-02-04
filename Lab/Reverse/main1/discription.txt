@@ -1,0 +1,8 @@
+1. 
+查看init和fini中的init array，若有2個以上的offset則可能藏東西
+
+2. 
+接著不斷往下找，直到找到可能藏有flag的地方，則開始reverse
+
+3.
+FLAG{DK_ShowMaker_WWT}

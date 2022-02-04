@@ -1,0 +1,19 @@
+base
+0x0000555555554000
+
+file
+/tmp/khodsmeogemgoe
+/tmp/bnpkevsekfpk3/aw3movsdirnqw
+
+set follow-fork-mode child
+
+open
+b *0x555555555514
+
+fork
+set $rip=0x555555555583
+
+
+
+FLAG{FIFO_1s_D1sGVsTln9}
+

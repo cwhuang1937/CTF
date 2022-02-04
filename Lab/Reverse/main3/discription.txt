@@ -1,0 +1,8 @@
+1.
+在fini_array發現有3個offset
+
+2.
+b *0x55555555529e
+
+3.
+FLAG{Drake_liking_something_and_pointing_at_it}

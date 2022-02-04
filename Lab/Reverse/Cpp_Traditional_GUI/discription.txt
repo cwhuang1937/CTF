@@ -1,0 +1,9 @@
+1.
+查看GetWindowTextW所讀出來的string後，並看他比對了什麼字串
+
+2.
+亞洲統神
+toyz2k7e.3
+
+3.
+FLAG{WIN32_GUI_SO_PAIN}

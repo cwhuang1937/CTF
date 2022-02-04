@@ -1,0 +1,8 @@
+1.
+逆完code後，已知FLAG{開頭，用python跑出key為18
+
+2.
+break 00007FF6FBDF1350，並輸入18即可
+
+3.
+FLAG{H3ll_W1nd0wS}

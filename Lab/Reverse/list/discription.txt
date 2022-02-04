@@ -1,0 +1,8 @@
+1. 
+定義struct來理解code
+
+2.
+依照提示來將value1與value2做XOR
+
+3.
+FLAG{alspdlp12lflasplkv0923kf01}

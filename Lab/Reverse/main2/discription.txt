@@ -1,0 +1,21 @@
+1.
+查看init中的init array，若有2個以上的offset則可能藏東西
+
+2.
+b *0x5555555551fc
+set $rip=0x555555555255 (bypass if)
+b *0x55555555529f
+
+3.
+FLAG{Faker_BibleThump}
+
+======
+1.
+查看init中的init array，若有2個以上的offset則可能藏東西
+
+2.
+init中是可以用argc argv的，仔細觀察後，發現argc[1]=0x6786*17=437478
+
+3.
+run 437478 即可拿到flag
+FLAG{Faker_BibleThump}

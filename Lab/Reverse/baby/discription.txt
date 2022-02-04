@@ -1,0 +1,8 @@
+1.
+b *0x4010ae
+
+2.
+看rsi (buff)
+
+3.
+FLAG{This_is_your_flag_abcd}

